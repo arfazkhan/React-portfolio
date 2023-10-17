@@ -1,8 +1,8 @@
 # Personal Website React
 
-[![Screenshot](/public/social.png?raw=true)]([https://akhk-portfolio-react.vercel.app/])
+[![Screenshot](/public/social.png?raw=true)]
 
-[![Website jolienhoop.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://jolienhoop.com)
+[![Website jolienhoop.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akhk-portfolio-react.vercel.app/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/JoHoop/personal-website-react.svg)](https://github.com/JoHoop/personal-website-react/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/personal-website-react/graphs/commit-activity)
