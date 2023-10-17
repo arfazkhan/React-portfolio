@@ -1,6 +1,6 @@
 # Personal Website React
 
-![Portfolio](https://github.com/arfazkhan/react-portfolio/blob/master/public/social.png)
+![Portfolio](https://drive.google.com/file/d/1C8kOhNzrbCpbZ9fTNd8-LfnVck0PHmmp/view?usp=drive_link)
 
 [![Website akhk-portfolio-react.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akhk-portfolio-react.vercel.app/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
@@ -13,7 +13,7 @@ View demo at [akhk-portfolio-react,vercel.app](https://akhk-portfolio-react.verc
 -   built using [React](https://reactjs.org/)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 -   styled with [Material-UI](https://material-ui.com/)
--   deployed with [Vercel](https://vercel.com) and hosted at [jolienhoop.com](https://jolienhoop.com)
+-   deployed with [Vercel](https://vercel.com) and hosted at [akhk-portfolio-react.vercel.app](https://akhk-portfolio-react.vercel.app/)
 
 Kudos to [Cody Bennett](https://github.com/CodyJasonBennett), [José Coelho](https://github.com/jcoelho93), [Brittany Chiang](https://github.com/bchiang7) and  [JoHoop](https://github.com/JoHoop) for the inspiration.
 
