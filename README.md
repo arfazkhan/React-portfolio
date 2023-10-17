@@ -1,6 +1,6 @@
-# Personal Website React
+# React Portfolio Website
 
-![Portfolio](https://drive.google.com/file/d/1C8kOhNzrbCpbZ9fTNd8-LfnVck0PHmmp/view?usp=sharing)
+![Portfolio](https://github.com/arfazkhan/react-portfolio/blob/master/public/social.png)
 
 [![Website akhk-portfolio-react.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akhk-portfolio-react.vercel.app/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
