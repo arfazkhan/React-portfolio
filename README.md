@@ -1,14 +1,14 @@
 # Personal Website React
 
-![Screenshot](/public/social.png?raw=true)
+![Portfolio](https://github.com/arfazkhan/react-portfolio/blob/master/public/social.png)
 
-[![Website akhk-portfolio-react.vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akhk-portfolio-react.vercel.app/)
+[![Website akhk-portfolio-react,vercel.app](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://akhk-portfolio-react.vercel.app/)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/JoHoop/personal-website-react.svg)](https://github.com/JoHoop/personal-website-react/graphs/contributors/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/JoHoop/personal-website-react/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-View demo at [jolienhoop.com](https://akhk-portfolio-react.vercel.app/)
+View demo at [akhk-portfolio-react,vercel.app](https://akhk-portfolio-react.vercel.app/)
 
 -   built using [React](https://reactjs.org/)
 -   bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
