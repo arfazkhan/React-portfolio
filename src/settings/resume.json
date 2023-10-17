@@ -1,48 +1,48 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "name": "Arfaz Khan Hijas Khan",
+        "label": "Electronics Student!",
+        "email": "arfuzkhan@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
         "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
+        "job": "not so average tech enthusiast!",
+        "description": "Hey, I'm Arfaz Khan Hijas Khan, an electronics and communication undergrad based in Kozhikode, Kerala. I'm the bridge between two worlds – a Tech Marvel and a Master Procrastinator, embracing both sides with equal passion. Technology fuels my drive as I tackle complex projects, decipher intricate code, and craft digital marvels. Consider me a tech explorer, fearlessly navigating the ever-changing world of innovation. I thrive on 'Eureka!' moments, sharing my expertise and lending a hand to fellow enthusiasts. Talk soon!",
+        "summary": "based in Kozhikode, Kerala, IN.",
         "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "url": "https://akhkportfolio.netlify.app/",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Kozhikode",
+            "country": "Kozhikode, Kerala",
+            "countryCode": "IN",
+            "region": "Kerala"
         },
         "profiles": [
             {
-                "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
-                "x_icon": "fab fa-google"
+                "network": "Twitter",
+                "username": "@arfuzkhan__",
+                "url": "https://twitter.com/arfuzkhan__",
+                "x_icon": "fab fa-twitter"
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "username": "arfazkhan",
+                "url": "https://www.linkedin.com/in/arfazkhan/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "arfazkhan",
+                "url": "https://github.com/arfazkhan",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
+                "network": "Medium",
+                "username": "@arfuzkhan",
+                "url": "https://medium.com/@arfuzkhan",
+                "x_icon": "fab fa-medium"
             }
         ]
     },
